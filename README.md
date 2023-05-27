@@ -1,2 +1,2 @@
-# GameOverJs Demo : https://ahmed-menisy.github.io/GameOverJs/
+# GameOverJs Demo : https://github.com/Zeyad-Sameh/GameOverJs.git
 # Game

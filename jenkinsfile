@@ -1,5 +1,5 @@
 node {
-    checkout([$class: 'GitSCM', branches: [[name: 'main']], userRemoteConfigs: [[url: 'https://github.com/ZiadSamehShehawy/GameOverJs.git']]])
+    git branch: '*/main', url: 'https://github.com/ZiadSamehShehawy/GameOverJs.git'
 
     stage('build') {
         try {

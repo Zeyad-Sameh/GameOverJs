@@ -1,5 +1,5 @@
 node {
-    git branch: '*/main', url: 'https://github.com/ZiadSamehShehawy/GameOverJs.git'
+    git branch: 'main', url: 'https://github.com/ZiadSamehShehawy/GameOverJs.git'
 
     stage('build') {
         try {
